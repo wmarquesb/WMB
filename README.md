@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is William and I'm a Developer, from Brazil</h2>
+<h2 align="center">Hi 👋! My name is William and I'm a Developer, from Brazil</h2>
 
 ###
 
@@ -10,8 +10,6 @@
 ###
 
 <img align="right" height="176" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhudGFyNnZsdmthM2V0bWxtMXhsbzlmZmQ2eG8xNDZjMzU2dXd5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBKbUGQX1Wnw9Rm/giphy.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
