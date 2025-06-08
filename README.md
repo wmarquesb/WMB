@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" height="176" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJpOXB0ZjY1NG9jcDFkdHE2cG5mcWs4a3F2dTkzeDQxZ3l3MjByMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBKbUGQX1Wnw9Rm/giphy.gif" alt="Coding GIF" />
+<img align="right" height="176" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHR0bzRwZzN6bGV5ZTVjc2E0cTQ5YzYzMm5ieGIycjN1azdiaHcyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ya63hjCGVaHjmXzWy0/giphy.gif" alt="Coding GIF" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
