@@ -1,15 +1,15 @@
 <h2 align="center">Hi 👋! My name is William and I'm a Developer, from Brazil</h2>
 
-###
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wmarquesb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wmarquesb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
 
-<img align="right" height="176" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhudGFyNnZsdmthM2V0bWxtMXhsbzlmZmQ2eG8xNDZjMzU2dXd5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3rgXBKbUGQX1Wnw9Rm/giphy.gif"  />
+<img align="right" height="176" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+---
 
 <div align="left">
   <a href="mailto:williammarques.b@outlook.com" target="_blank">
@@ -52,10 +52,8 @@
   </a>
 </div>
 
-###
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/wmarquesb/wmarquesb/output/snake.svg" alt="Snake animation" />
-
-###
